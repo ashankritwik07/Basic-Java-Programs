@@ -1,3 +1,21 @@
+/*
+  Question:-
+1. You are required to print a 'z' of size 5 using '*'.
+Sample Input:
+
+There is no input
+
+Sample Output:
+
+*****
+ *
+ * 
+* 
+*****
+
+ */
+//solution:-
+
 package MyClass;
 
 public class print {
