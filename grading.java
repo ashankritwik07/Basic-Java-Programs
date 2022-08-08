@@ -1,3 +1,5 @@
+Question:-
+
 /*
  * 1. You are given as input marks of a student.
 2. Display an appropriate message based on the following rules:
@@ -7,6 +9,9 @@
   	  2.4 for marks above 60 and less than equal to 70, print meets expectations.
   	  2.5 for marks less than equal to 60, print below par.
  */
+	
+Solution:-
+	
 package MyClass;
 import java.util.Scanner;
 
@@ -34,3 +39,4 @@ else if(marks<=60) {
 	}
 
 }
+
