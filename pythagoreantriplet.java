@@ -1,3 +1,10 @@
+/*
+Question:-
+You are required to display the prime factorization of a number.
+Take as input a number n.
+Print all its prime factors from smallest to largest.
+*/
+
 package MyClass;
 
 import java.util.Scanner;
