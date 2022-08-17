@@ -23,8 +23,8 @@ public class rotatenumber {
 		int n = sc.nextInt();
 		int k = sc.nextInt();
 		
-		int temp = 0;
-		int nod = 1;
+		int temp = n;
+		int nod = 0;
 		while(temp>0) {
 			temp = temp /10;
 			nod++;
