@@ -1,6 +1,4 @@
-package MyClass;
-import java.util.Scanner;
-public class pattern10 {
+
 /*
  * Question:-
  * 1. You are given a number n.
@@ -14,7 +12,9 @@ Pattern:-
       *     
  */
 	
-	
+	package MyClass;
+import java.util.Scanner;
+public class pattern10 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
